@@ -1,0 +1,5 @@
+Count: 3
+Max Budget: 150000.0
+Min Budget: 75000.0
+Sum of Budgets: 325000.0
+Average Budget: 108333.33333333333
